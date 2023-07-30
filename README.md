@@ -10,7 +10,7 @@ The project is currently hosted on Netlify, making it accessible online for anyo
 
 ## Live Demo
 
-[View the live demo](aknetworks.netlify.app)
+https://aknetworks.netlify.app/
 
 ## Features
 
